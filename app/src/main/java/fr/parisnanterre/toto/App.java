@@ -5,7 +5,7 @@ package fr.parisnanterre.toto;
 
 public class App {
     public String getGreeting() {
-        return "Bonjour le monde !";
+        return "Bonjour le monde !!!";
     }
 
     public static void main(String[] args) {
